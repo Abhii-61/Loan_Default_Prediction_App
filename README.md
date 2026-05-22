@@ -8,10 +8,9 @@ The project demonstrates an end-to-end Machine Learning workflow including data 
 
 # 🚀 Live Demo
 
-👉 Add your deployed app link here
 
 ```bash
-https://your-app-link.streamlit.app
+https://titanicsurvivalpredictionapp-qvdfwr8m4ptjtaal2dysba.streamlit.app/
 ```
 
 ---
